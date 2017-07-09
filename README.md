@@ -1,4 +1,16 @@
+Game Engine
+  Player: square
+  entity list to facilitate addition of creature
+  Collision Detection
 
+Movement
+  walljump
+  full run, stop
+
+Level Generation
+  modular
+  random stucture
+	building in squares
 
 quu..__
  $$$b  `---.__
@@ -38,4 +50,3 @@ quu..__
                |   .:::------------\       /
               /   .''               >::'  /
               `',:                 :    .'
-                                    
