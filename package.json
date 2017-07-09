@@ -1,0 +1,19 @@
+{
+  "name": "racewar",
+  "version": "1.0.0",
+  "description": "Game Engine   Player: square   entity list to facilitate addition of creature   Collision Detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaymspeights/RaceWar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaymspeights/RaceWar/issues"
+  },
+  "homepage": "https://github.com/jaymspeights/RaceWar#readme"
+}
