@@ -11,13 +11,14 @@ app.get('/', function(req, res){
 app.get('/multi', function(req, res){
   console.log('multi');
   //create multiplayer game
-  res.send(id);
+  //res.send(id);
   res.sendFile(__dirname + '/html/game.html');
 });
 
 app.get('/single', function(req, res){
   console.log('single');
   //create singleplayer game
+  //res.send(id);
   res.sendFile(__dirname + '/html/game.html');
 });
 
